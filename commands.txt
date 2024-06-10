@@ -1,0 +1,50 @@
+ON Windows: 
+
+1) To print the present working directory 
+
+cmd>cd 
+
+2) To print the file/folder names in the present working directory 
+cmd>dir 
+
+3) To print file/folder names in directory which is not present working directory 
+cmd>dir dir_path 
+
+4) To change the present working directory of cmd.exe 
+cmd> cd dir_path 
+
+5) To create a new folder 
+cmd> mkdir folder_path 
+
+6) To Remove and empty folder 
+cmd> rmdir folder_path 
+
+7) To create a new file 
+cmd> type nul > new_file_path 
+
+8) To remove an existing file 
+cmd> del file_path 
+#--------------------------------------------------------------------------
+1) To print the present working directory 
+cmd$ pwd 
+
+2) To print the file/folder names in the present working directory 
+cmd$ ls  
+
+3) To print file/folder names in directory which is not present working directory 
+cmd$ ls dir_path 
+
+4) To change the present working directory of cmd.exe 
+cmd$ cd dir_path 
+
+5) To create a new folder 
+cmd$ mkdir folder_path 
+
+6) To Remove and empty folder 
+cmd$ rmdir folder_path 
+
+7) To create a new file 
+cmd$ touch new_file_path 
+
+8) To remove an existing file 
+cmd$ rm file_path 
